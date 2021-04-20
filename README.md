@@ -23,6 +23,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 $ yarn add --dev nuxt-vite
 https://vite.nuxtjs.org/get-started/usag
 
-## 
+## nuxtjs/composition-api
 $ yarn add @nuxtjs/composition-api
 https://composition-api.nuxtjs.org/getting-started/setup
